@@ -17,3 +17,4 @@ As Ferramentas utilizadas nesse projeto são HTML, CSS3, Bootstrap.
 </div>
 
 ### Deploy ###
+A hospedagem do projeto foi feita no Vercel, e está disponível através do <a href="">Link</a>
